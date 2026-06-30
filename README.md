@@ -1,2 +1,2 @@
-# web-oroject-jewellery
+# web-project-jewellery
 Webproject Description
